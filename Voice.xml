@@ -1,4 +1,5 @@
- <Response>
-        <Say>Namaste, irrigation is required in your field.</Say>
-        <Say>Press 1 to start irrigation. Press 2 to cancel.</Say>
-  </Response>
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Say voice="woman">Namaste, irrigation is required in your field! Press 1 to start irrigation. Press 2 to cancel.</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
