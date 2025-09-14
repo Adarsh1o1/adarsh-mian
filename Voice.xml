@@ -1,6 +1,4 @@
  <Response>
         <Say>Namaste, irrigation is required in your field.</Say>
-<!--         <Gather numDigits="1" action="/ivr-response" method="POST"> -->
-            <Say>Press 1 to start irrigation. Press 2 to cancel.</Say>
-<!--         </Gather> -->
+        <Say>Press 1 to start irrigation. Press 2 to cancel.</Say>
   </Response>
